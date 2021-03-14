@@ -1,6 +1,6 @@
 # Inventory Valuator - (MERN)
 
-> Full stack expense tracker
+> Full stack inventory tracker
 
 ## Usage
 
